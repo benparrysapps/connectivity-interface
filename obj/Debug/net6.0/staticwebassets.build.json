@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G0vv42AOsl7aESqF8HOY1QHZZoVUXK/qxQh6APmUE20=",
+  "Source": "ConnectivityInterfaceWebAPI",
+  "BasePath": "_content/ConnectivityInterfaceWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
